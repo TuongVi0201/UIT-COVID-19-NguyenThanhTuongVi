@@ -1,0 +1,586 @@
+date,location,number,time of day
+07/15/2021,Thanh Ho?a,19,T?i
+07/15/2021,HCM,10,T?i
+07/15/2021,Ha? No??i,2,T?i
+07/15/2021,Qua?ng Nam,1,T?i
+07/15/2021,Bi?nh ?i?nh,1,T?i
+07/15/2021,TP. Ho?? Chi? Minh,1.399,T?i
+07/15/2021,Bi?nh Du?o?ng,122,T?i
+07/15/2021,?o??ng Tha?p,63,T?i
+07/15/2021,?o??ng Nai,60,T?i
+07/15/2021,Long An,41,T?i
+07/15/2021,?a? Na??ng,33,T?i
+07/15/2021,Be??n Tre,30,T?i
+07/15/2021,Phu? Ye?n,30,T?i
+07/15/2021,Vi?nh Long,17,T?i
+07/15/2021,Bi?nh Thua??n,17,T?i
+07/15/2021,Bi?nh Phu?o??c,13,T?i
+07/15/2021,Hu?ng Ye?n,12,T?i
+07/15/2021,Ca??n Tho?,11,T?i
+07/15/2021,Ninh Thua??n,10,T?i
+07/15/2021,Ha? No??i,7,T?i
+07/15/2021,So?c Tra?ng,4,T?i
+07/15/2021,Qua?ng Nga?i,4,T?i
+07/15/2021,Kha?nh Ho?a,4,T?i
+07/15/2021,Ba??c Ninh,3,T?i
+07/15/2021,Tra? Vinh,3,T?i
+07/15/2021,Bi?nh ?i?nh,1,T?i
+07/15/2021,Ca? Mau,1,T?i
+07/15/2021,Vi?nh Phu?c,1,T?i
+07/15/2021,La?m ?o??ng,1,T?i
+07/15/2021,?a??k La??k,1,T?i
+07/15/2021,Ba??c Giang,1,T?i
+07/15/2021,An Giang,2,Sáng
+07/15/2021,Ninh Bi?nh,1,Sáng
+07/15/2021,Ba? Ri?a - Vu?ng Ta?u,1,Sáng
+07/15/2021,TP. Ho?? Chi? Minh,603,Sáng
+07/15/2021,?o??ng Nai,72,Sáng
+07/15/2021,?o??ng Tha?p,36,Sáng
+07/15/2021,Phu? Ye?n,18,Sáng
+07/15/2021,Kha?nh Ho?a,18,Sáng
+07/15/2021,Ba? Ri?a - Vu?ng Ta?u,17,Sáng
+07/15/2021,Ha? No??i,11,Sáng
+07/15/2021,Hu?ng Ye?n,10,Sáng
+07/15/2021,An Giang,8,Sáng
+07/15/2021,Ninh Thua??n,7,Sáng
+07/15/2021,?a??k No?ng,1,Sáng
+07/14/2021,Thanh Ho?a,3,T?i
+07/14/2021,Qua?ng Nam,2,T?i
+07/14/2021,Ha? No??i,1,T?i
+07/14/2021,TP. Ho?? Chi? Minh,592,T?i
+07/14/2021,Bi?nh Du?o?ng,73,T?i
+07/14/2021,?o??ng Tha?p,42,T?i
+07/14/2021,?o??ng Nai,38,T?i
+07/14/2021,?a? Na??ng,15,T?i
+07/14/2021,So?c Tra?ng,12,T?i
+07/14/2021,Bi?nh Thua??n,9,T?i
+07/14/2021,Kie?n Giang,9,T?i
+07/14/2021,Ca??n Tho?,8,T?i
+07/14/2021,Phu? Ye?n,6,T?i
+07/14/2021,Ha? No??i,4,T?i
+07/14/2021,Qua?ng Nga?i,4,T?i
+07/14/2021,Nghe?? An,3,T?i
+07/14/2021,Tra? Vinh,2,T?i
+07/14/2021,Ha? Ti?nh,1,T?i
+07/14/2021,Ca? Mau,1,T?i
+07/14/2021,Ba??c Giang,1,T?i
+07/14/2021,Ba??c Ninh,1,T?i
+07/14/2021,La?ng So?n,1,T?i
+07/14/2021,Bi?nh Phu?o??c,1,T?i
+07/14/2021,TP. Ho?? Chi? Minh,971,Tr?a
+07/14/2021,Tie??n Giang,115,Tr?a
+07/14/2021,?o??ng Tha?p,91,Tr?a
+07/14/2021,Phu? Ye?n,8,Tr?a
+07/14/2021,Be??n Tre,3,Tr?a
+07/14/2021,Ba??c Giang,2,Tr?a
+07/14/2021,Hue??,1,Tr?a
+07/14/2021,Vi?nh Phu?c,1,Tr?a
+07/14/2021,La?o Cai,1,Tr?a
+07/14/2021,La?m ?o??ng,1,Tr?a
+07/14/2021,Nghe?? An,1,Tr?a
+07/14/2021,Ha? No??i,1,Tr?a
+07/14/2021,TP. Ho?? Chi? Minh,666,Sáng
+07/14/2021,?o??ng Nai,80,Sáng
+07/14/2021,Kha?nh Hoa?,44,Sáng
+07/14/2021,Be??n Tre,43,Sáng
+07/14/2021,Ba? Ri?a – Vu?ng Ta?u,19,Sáng
+07/14/2021,Phu? Ye?n,18,Sáng
+07/14/2021,Vi?nh Long,17,Sáng
+07/14/2021,Ninh Thua??n,4,Sáng
+07/14/2021,Ta?y Ninh,4,Sáng
+07/14/2021,Kie?n Giang,2,Sáng
+07/14/2021,Hue??,2,Sáng
+07/14/2021,An Giang,2,Sáng
+07/14/2021,Ba??c Ninh,2,Sáng
+07/14/2021,So?c Tra?ng,1,Sáng
+07/14/2021,Bi?nh ?i?nh,1,Sáng
+07/13/2021,TP. Ho?? Chi? Minh,546,T?i
+07/13/2021,Bi?nh Du?o?ng,186,T?i
+07/13/2021,Long An,49,T?i
+07/13/2021,?o??ng Tha?p,19,T?i
+07/13/2021,Phu? Ye?n,15,T?i
+07/13/2021,Hu?ng Ye?n,8,T?i
+07/13/2021,Ha? No??i,6,T?i
+07/13/2021,Ca??n Tho?,5,T?i
+07/13/2021,An Giang,4,T?i
+07/13/2021,?a? Na??ng,4,T?i
+07/13/2021,Tra? Vinh,3,T?i
+07/13/2021,Kie?n Giang,3,T?i
+07/13/2021,Ba??c Giang,1,T?i
+07/13/2021,TP. Ho?? Chi? Minh,886,Tr?a
+07/13/2021,Long An,29,Tr?a
+07/13/2021,Ba? Ri?a – Vu?ng Ta?u,27,Tr?a
+07/13/2021,?o??ng Tha?p,12,Tr?a
+07/13/2021,Be??n Tre,11,Tr?a
+07/13/2021,Phu? Ye?n,4,Tr?a
+07/13/2021,Qua?ng Nga?i,2,Tr?a
+07/13/2021,Bi?nh Thua??n,2,Tr?a
+07/13/2021,Ba??c Ninh,2,Tr?a
+07/13/2021,Nam ?i?nh,1,Tr?a
+07/13/2021,Nghe?? An,1,Tr?a
+07/13/2021,Ba??c Giang,1,Tr?a
+07/13/2021,Ha? No??i,1,Tr?a
+07/13/2021,La?o Cai,1,Tr?a
+07/13/2021,Bi?nh Phu?o??c,1,Tr?a
+07/13/2021,Thanh Ho?a,1,Tr?a
+07/13/2021,TP. Ho?? Chi? Minh,365,Sáng
+07/13/2021,Long An,52,Sáng
+07/13/2021,Vi?nh Long,23,Sáng
+07/13/2021,?o??ng Nai,12,Sáng
+07/13/2021,Phu? Ye?n,7,Sáng
+07/13/2021,Ta?y Ninh,5,Sáng
+07/13/2021,Ha? No??i,1,Sáng
+07/12/2021,TP. Ho?? Chi? Minh,341,T?i
+07/12/2021,Bi?nh Du?o?ng,128,T?i
+07/12/2021,Kha?nh Ho?a,31,T?i
+07/12/2021,Tie??n Giang,26,T?i
+07/12/2021,Phu? Ye?n,17,T?i
+07/12/2021,?a? Na??ng,14,T?i
+07/12/2021,Tra? Vinh,8,T?i
+07/12/2021,Ha??u Giang,8,T?i
+07/12/2021,Qua?ng Nga?i,7,T?i
+07/12/2021,So?c Tra?ng,4,T?i
+07/12/2021,Ba??c Ninh,4,T?i
+07/12/2021,An Giang,3,T?i
+07/12/2021,Ha? No??i,3,T?i
+07/12/2021,Thanh Ho?a,2,T?i
+07/12/2021,?o??ng Tha?p,2,T?i
+07/12/2021,Nam ?i?nh,2,T?i
+07/12/2021,Bi?nh Phu?o??c,2,T?i
+07/12/2021,?a??k No?ng,1,T?i
+07/12/2021,Ta?y Ninh,5,Tr?a
+07/12/2021,Ha?i Pho?ng,1,Tr?a
+07/12/2021,Hoa? Bi?nh,1,Tr?a
+07/12/2021,TP. Ho?? Chi? Minh,879,Tr?a
+07/12/2021,?o??ng Nai,82,Tr?a
+07/12/2021,Tie??n Giang,49,Tr?a
+07/12/2021,?o??ng Tha?p,38,Tr?a
+07/12/2021,Ha? No??i,26,Tr?a
+07/12/2021,Phu? Ye?n,9,Tr?a
+07/12/2021,Ba??c Giang,7,Tr?a
+07/12/2021,Hu?ng Ye?n,7,Tr?a
+07/12/2021,Ta?y Ninh,3,Tr?a
+07/12/2021,Ba?c Lie?u,2,Tr?a
+07/12/2021,Bi?nh Phu?o??c,1,Tr?a
+07/12/2021,So?c Tra?ng,1,Tr?a
+07/12/2021,Vi?nh Phu?c,1,Tr?a
+07/12/2021,Vi?nh Long,2,Sáng
+07/12/2021,An Giang,1,Sáng
+07/12/2021,TP. Ho?? Chi? Minh,544,Sáng
+07/12/2021,Tie??n Giang,43,Sáng
+07/12/2021,Kha?nh Hoa?,27,Sáng
+07/12/2021,Vi?nh Long,26,Sáng
+07/12/2021,An Giang,8,Sáng
+07/12/2021,Bi?nh Phu?o??c,5,Sáng
+07/12/2021,Phu? Ye?n,4,Sáng
+07/12/2021,Hue??,1,Sáng
+07/12/2021,Nghe?? An,1,Sáng
+07/11/2021,Kie?n Giang,2,T?i
+07/11/2021,Kha?nh Ho?a,2,T?i
+07/11/2021,Bi?nh ?i?nh,1,T?i
+07/11/2021,Ninh Bi?nh,1,T?i
+07/11/2021,TP. Ho?? Chi? Minh,354,T?i
+07/11/2021,Bi?nh Du?o?ng,195,T?i
+07/11/2021,?o??ng Tha?p,50,T?i
+07/11/2021,Long An,46,T?i
+07/11/2021,Phu? Ye?n,32,T?i
+07/11/2021,Ba??c Ninh,7,T?i
+07/11/2021,?a? Na??ng,6,T?i
+07/11/2021,Ba??c Giang,4,T?i
+07/11/2021,So?c Tra?ng,3,T?i
+07/11/2021,Tra? Vinh,2,T?i
+07/11/2021,Ninh Thua??n,2,T?i
+07/11/2021,Qua?ng Nga?i,2,T?i
+07/11/2021,La?m ?o??ng,1,T?i
+07/11/2021,Bi?nh ?i?nh,1,T?i
+07/11/2021,Ca??n Tho?,1,T?i
+07/11/2021,Ha? No??i,1,T?i
+07/11/2021,TP. Ho?? Chi? Minh,600,Tr?a
+07/11/2021,Ba??c Giang,9,Tr?a
+07/11/2021,Ha? No??i,6,Tr?a
+07/11/2021,Hu?ng Ye?n,3,Tr?a
+07/11/2021,Ba? Ri?a - Vu?ng Ta?u,3,Tr?a
+07/11/2021,Ninh Thua??n,2,Tr?a
+07/11/2021,Ha? Ti?nh,2,Tr?a
+07/11/2021,Bi?nh Thua??n,2,Tr?a
+07/11/2021,Bi?nh ?i?nh,1,Tr?a
+07/11/2021,?a??k No?ng,1,Tr?a
+07/11/2021,La?m ?o??ng,1,Tr?a
+07/11/2021,Ha?i Pho?ng,1,Tr?a
+07/11/2021,Thanh Ho?a,1,Tr?a
+07/11/2021,TP. Ho?? Chi? Minh,443,Sáng
+07/11/2021,Tie??n Giang,46,Sáng
+07/11/2021,Vi?nh Long,43,Sáng
+07/11/2021,Bi?nh Du?o?ng,39,Sáng
+07/11/2021,Ha??u Giang,9,Sáng
+07/11/2021,Be??n Tre,7,Sáng
+07/11/2021,An Giang,7,Sáng
+07/11/2021,Phu? Ye?n,4,Sáng
+07/11/2021,Ba??c Ninh,3,Sáng
+07/11/2021,Bi?nh Phu?o??c,2,Sáng
+07/11/2021,Ca? Mau,1,Sáng
+07/11/2021,Qua?ng Nam,1,Sáng
+07/11/2021,Ba?c Lie?u,1,Sáng
+07/10/2021,TP. Ho?? Chi? Minh,200,T?i
+07/10/2021,Bi?nh Du?o?ng,140,T?i
+07/10/2021,Long An,33,T?i
+07/10/2021,?o??ng Nai,19,T?i
+07/10/2021,Phu? Ye?n,18,T?i
+07/10/2021,Qua?ng Nga?i,14,T?i
+07/10/2021,Kha?nh Ho?a,13,T?i
+07/10/2021,?o??ng Tha?p,8,T?i
+07/10/2021,Ha? No??i,5,T?i
+07/10/2021,Bi?nh Phu?o??c,4,T?i
+07/10/2021,Ta?y Ninh,3,T?i
+07/10/2021,Ba? Ri?a – Vu?ng Ta?u,1,T?i
+07/10/2021,Bi?nh ?i?nh,1,T?i
+07/10/2021,Vi?nh Phu?c,1,T?i
+07/10/2021,Tha?i Bi?nh,1,T?i
+07/10/2021,TP. Ho?? Chi? Minh,600,Tr?a
+07/10/2021,Tie??n Giang,75,Tr?a
+07/10/2021,?o??ng Tha?p,50,Tr?a
+07/10/2021,Vi?nh Long,26,Tr?a
+07/10/2021,So?c Tra?ng,7,Tr?a
+07/10/2021,Hu?ng Ye?n,7,Tr?a
+07/10/2021,Phu? Ye?n,7,Tr?a
+07/10/2021,Ba??c Giang,4,Tr?a
+07/10/2021,Tra? Vinh,2,Tr?a
+07/10/2021,Ca? Mau,2,Tr?a
+07/10/2021,Ba??c Ninh,2,Tr?a
+07/10/2021,Ninh Thua??n,1,Tr?a
+07/10/2021,Ba?c Lie?u,1,Tr?a
+07/10/2021,Kie?n Giang,1,Tr?a
+07/10/2021,Bi?nh ?i?nh,1,Tr?a
+07/10/2021,Ha? Ti?nh,1,Tr?a
+07/10/2021,Thanh Hoa?,1,Tr?a
+07/10/2021,Tha?i Bi?nh,1,Tr?a
+07/10/2021,Ha? Nam,1,Tr?a
+07/10/2021,Qua?ng Nam,2,Sáng
+07/10/2021,Ta?y Ninh,2,Sáng
+07/10/2021,Ha? No??i,1,Sáng
+07/10/2021,TP. Ho?? Chi? Minh,520,Sáng
+07/10/2021,?o??ng Nai,18,Sáng
+07/10/2021,Kha?nh Ho?a,15,Sáng
+07/10/2021,Ba? Ri?a – Vu?ng Ta?u,11,Sáng
+07/10/2021,An Giang,10,Sáng
+07/10/2021,Phu? Ye?n,8,Sáng
+07/10/2021,Bi?nh Phu?o??c,4,Sáng
+07/10/2021,Be??n Tre,2,Sáng
+07/10/2021,Ha? No??i,2,Sáng
+07/10/2021,Thanh Ho?a,2,Sáng
+07/10/2021,Ta?y Ninh,1,Sáng
+07/09/2021,TP. Ho?? Chi? Minh,400,T?i
+07/09/2021,Long An,40,T?i
+07/09/2021,Tie??n Giang,34,T?i
+07/09/2021,?o??ng Tha?p,32,T?i
+07/09/2021,Kha?nh Ho?a,25,T?i
+07/09/2021,Phu? Ye?n,22,T?i
+07/09/2021,Hu?ng Ye?n,8,T?i
+07/09/2021,Bi?nh Du?o?ng,7,T?i
+07/09/2021,Ca??n Tho?,6,T?i
+07/09/2021,Ba??c Ninh,5,T?i
+07/09/2021,Ha??u Giang,4,T?i
+07/09/2021,So?c Tra?ng,2,T?i
+07/09/2021,?a??k No?ng,1,T?i
+07/09/2021,Bi?nh Phu?o??c,1,T?i
+07/09/2021,?a? Na??ng,1,T?i
+07/09/2021,Nghe?? An,1,T?i
+07/09/2021,Ba??c Giang,1,T?i
+07/09/2021,Ha? Ti?nh,3,Tr?a
+07/09/2021,Qua?ng Nam,2,Tr?a
+07/09/2021,Kie?n Giang,1,Tr?a
+07/09/2021,TP. Ho?? Chi? Minh,479,Tr?a
+07/09/2021,Bi?nh Du?o?ng,66,Tr?a
+07/09/2021,?o??ng Nai,17,Tr?a
+07/09/2021,Ba??c Giang,9,Tr?a
+07/09/2021,Tra? Vinh,8,Tr?a
+07/09/2021,Ba??c Ninh,7,Tr?a
+07/09/2021,Qua?ng Nga?i,7,Tr?a
+07/09/2021,Ba? Ri?a - Vu?ng Ta?u,4,Tr?a
+07/09/2021,Ha? No??i,2,Tr?a
+07/09/2021,Vi?nh Phu?c,1,Tr?a
+07/09/2021,Ba?c Lie?u,1,Tr?a
+07/09/2021,La?m ?o??ng,1,Tr?a
+07/09/2021,Thanh Ho?a,1,Tr?a
+07/09/2021,Tha?i Bi?nh,1,Sáng
+07/09/2021,An Giang,1,Sáng
+07/09/2021,TP. Ho?? Chi? Minh,350,Sáng
+07/09/2021,Long An,37,Sáng
+07/09/2021,?o??ng Nai,15,Sáng
+07/09/2021,Phu? Ye?n,6,Sáng
+07/09/2021,An Giang,5,Sáng
+07/09/2021,Kha?nh Ho?a,4,Sáng
+07/09/2021,Ba??c Ninh,3,Sáng
+07/09/2021,Vi?nh Phu?c,1,Sáng
+07/09/2021,Gia Lai,1,Sáng
+07/09/2021,Ba?c Lie?u,1,Sáng
+07/08/2021,Kha?nh Ho?a,3,T?i
+07/08/2021,Kie?n Giang,2,T?i
+07/08/2021,Ta?y Ninh,2,T?i
+07/08/2021,TP. Ho?? Chi? Minh,481,T?i
+07/08/2021,Bi?nh Du?o?ng,55,T?i
+07/08/2021,Kha?nh Ho?a,25,T?i
+07/08/2021,?o??ng Tha?p,17,T?i
+07/08/2021,Vi?nh Long,17,T?i
+07/08/2021,Phu? Ye?n,11,T?i
+07/08/2021,Ba??c Giang,6,T?i
+07/08/2021,Ca? Mau,4,T?i
+07/08/2021,Qua?ng Nga?i,4,T?i
+07/08/2021,Ba??c Ninh,4,T?i
+07/08/2021,Ha? No??i,4,T?i
+07/08/2021,Bi?nh Phu?o??c,3,T?i
+07/08/2021,Hu?ng Ye?n,2,T?i
+07/08/2021,Ta?y Ninh,1,T?i
+07/08/2021,Ha??u Giang,1,T?i
+07/08/2021,Kie?n Giang,1,T?i
+07/08/2021,Bi?nh Thua??n,1,T?i
+07/08/2021,Be??n Tre,1,T?i
+07/08/2021,TP. Ho?? Chi? Minh,200,Tr?a
+07/08/2021,?o??ng Tha?p,91,Tr?a
+07/08/2021,Phu? Ye?n,13,Tr?a
+07/08/2021,An Giang,11,Tr?a
+07/08/2021,Qua?ng Nga?i,10,Tr?a
+07/08/2021,Ca? Mau,7,Tr?a
+07/08/2021,Ba??c Ninh,4,Tr?a
+07/08/2021,Kha?nh Ho?a,3,Tr?a
+07/08/2021,La?m ?o??ng,3,Tr?a
+07/08/2021,Gia Lai,3,Tr?a
+07/08/2021,Ba??c Giang,3,Tr?a
+07/08/2021,Ba?c Lie?u,2,Tr?a
+07/08/2021,Tra? Vinh,2,Tr?a
+07/08/2021,Nghe?? An,1,Tr?a
+07/08/2021,Bi?nh ?i?nh,1,Tr?a
+07/08/2021,Ha? No??i,1,Tr?a
+07/08/2021,TP. Ho?? Chi? Minh,234,Sáng
+07/08/2021,Bi?nh Du?o?ng,80,Sáng
+07/07/2021,Ta?y Ninh,8,T?i
+07/07/2021,An Giang,1,T?i
+07/07/2021,TP. Ho?? Chi? Minh,149,T?i
+07/07/2021,Bi?nh Du?o?ng,60,T?i
+07/07/2021,Kha?nh Ho?a,41,T?i
+07/07/2021,Vi?nh Long,24,T?i
+07/07/2021,Tie??n Giang,18,T?i
+07/07/2021,Phu? Ye?n,8,T?i
+07/07/2021,Vi?nh Phu?c,5,T?i
+07/07/2021,Hu?ng Ye?n,5,T?i
+07/07/2021,?o??ng Tha?p,5,T?i
+07/07/2021,Ha? No??i,3,T?i
+07/07/2021,Ba??c Giang,2,T?i
+07/07/2021,Thanh Ho?a,1,T?i
+07/07/2021,TP. Ho?? Chi? Minh,347,Tr?a
+07/07/2021,Long An,19,Tr?a
+07/07/2021,Qua?ng Nga?i,13,Tr?a
+07/07/2021,Ba??c Ninh,6,Tr?a
+07/07/2021,Phu? Ye?n,4,Tr?a
+07/07/2021,Tra? Vinh,3,Tr?a
+07/07/2021,Ba??c Giang,3,Tr?a
+07/07/2021,Nghe?? An,2,Tr?a
+07/07/2021,Ca? Mau,1,Tr?a
+07/07/2021,Ba? Ri?a - Vu?ng Ta?u,1,Tr?a
+07/07/2021,?a??k La??k,1,Tr?a
+07/07/2021,TP. Ho?? Chi? Minh,270,Sáng
+07/07/2021,Phu? Ye?n,2,Sáng
+07/07/2021,?o??ng Nai,2,Sáng
+07/07/2021,Ba? Ri?a – Vu?ng Ta?u,1,Sáng
+07/07/2021,Ha? Ti?nh,1,Sáng
+07/06/2021,Ta?y Ninh,2,T?i
+07/06/2021,Qua?ng Nam,1,T?i
+07/06/2021,Ha? No??i,1,T?i
+07/06/2021,TP. Ho?? Chi? Minh,271,T?i
+07/06/2021,?o??ng Tha?p,99,T?i
+07/06/2021,Bi?nh Du?o?ng,92,T?i
+07/06/2021,Phu? Ye?n,16,T?i
+07/06/2021,Long An,8,T?i
+07/06/2021,Nghe?? An,3,T?i
+07/06/2021,Ba??c Giang,2,T?i
+07/06/2021,Ba??c Ninh,2,T?i
+07/06/2021,Ha? No??i,2,T?i
+07/06/2021,Tra? Vinh,2,T?i
+07/06/2021,La?ng So?n,1,T?i
+07/06/2021,Hu?ng Ye?n,1,T?i
+07/06/2021,An Giang,1,T?i
+07/06/2021,Qua?ng Nam,4,Tr?a
+07/06/2021,Kie?n Giang,2,Tr?a
+07/06/2021,TP. Ho?? Chi? Minh,209,Tr?a
+07/06/2021,Ha? No??i,10,Tr?a
+07/06/2021,Phu? Ye?n,7,Tr?a
+07/06/2021,Long An,6,Tr?a
+07/06/2021,Thanh Hoa?,4,Tr?a
+07/06/2021,Ba??c Giang,3,Tr?a
+07/06/2021,La?ng So?n,1,Tr?a
+07/06/2021,Ba??c Ninh,1,Tr?a
+07/06/2021,Ha? Nam,1,Tr?a
+07/06/2021,TP. Ho?? Chi? Minh,230,Sáng
+07/06/2021,Phu? Ye?n,18,Sáng
+07/06/2021,?o??ng Nai,11,Sáng
+07/06/2021,An Giang,10,Sáng
+07/06/2021,Hu?ng Ye?n,5,Sáng
+07/06/2021,Vi?nh Long,2,Sáng
+07/06/2021,Ha? Nam,1,Sáng
+07/05/2021,Tra? Vinh,12,T?i
+07/05/2021,Ba? Ri?a - Vu?ng Ta?u,1,T?i
+07/05/2021,TP. Ho?? Chi? Minh,270,T?i
+07/05/2021,Bi?nh Du?o?ng,114,T?i
+07/05/2021,?o??ng Tha?p,62,T?i
+07/05/2021,Tie??n Giang,11,T?i
+07/05/2021,Phu? Ye?n,11,T?i
+07/05/2021,Kha?nh Ho?a,10,T?i
+07/05/2021,?o??ng Nai,8,T?i
+07/05/2021,An Giang,6,T?i
+07/05/2021,Bi?nh Phu?o??c,4,T?i
+07/05/2021,Ba? Ri?a – Vu?ng Ta?u,4,T?i
+07/05/2021,Bi?nh ?i?nh,3,T?i
+07/05/2021,Ta?y Ninh,3,T?i
+07/05/2021,Ba??c Giang,3,T?i
+07/05/2021,Qua?ng Nga?i,2,T?i
+07/05/2021,Ba??c Ninh,1,T?i
+07/05/2021,Nghe?? An,1,T?i
+07/05/2021,La?m ?o??ng,1,T?i
+07/05/2021,TP. Ho?? Chi? Minh,196,Tr?a
+07/05/2021,Bi?nh Du?o?ng,17,Tr?a
+07/05/2021,Long An,13,Tr?a
+07/05/2021,Phu? Ye?n,6,Tr?a
+07/05/2021,Ba??c Giang,4,Tr?a
+07/05/2021,Vi?nh Long,3,Tr?a
+07/05/2021,?o??ng Tha?p,3,Tr?a
+07/05/2021,Qua?ng Nga?i,2,Tr?a
+07/05/2021,Ha? Ti?nh,2,Tr?a
+07/05/2021,Ba??c Ninh,1,Tr?a
+07/05/2021,TP. Ho?? Chi? Minh,175,Sáng
+07/05/2021,?o??ng Tha?p,100,Sáng
+07/05/2021,Phu? Ye?n,23,Sáng
+07/05/2021,Hu?ng Ye?n,9,Sáng
+07/05/2021,Kha?nh Ho?a,8,Sáng
+07/05/2021,An Giang,6,Sáng
+07/05/2021,Long An,2,Sáng
+07/05/2021,Ba??c Ninh,2,Sáng
+07/05/2021,La?ng So?n,1,Sáng
+07/05/2021,?o??ng Nai,1,Sáng
+07/05/2021,So?c Tra?ng,1,Sáng
+07/04/2021,TP. Ho?? Chi? Minh,169,T?i
+07/04/2021,Bi?nh Du?o?ng,76,T?i
+07/04/2021,Long An,52,T?i
+07/04/2021,Tie??n Giang,29,T?i
+07/04/2021,Qua?ng Nga?i,8,T?i
+07/04/2021,Phu? Ye?n,5,T?i
+07/04/2021,An Giang,5,T?i
+07/04/2021,?o??ng Tha?p,4,T?i
+07/04/2021,Nghe?? An,3,T?i
+07/04/2021,Hue??,1,T?i
+07/04/2021,Ha? Ti?nh,1,T?i
+07/04/2021,Be??n Tre,1,T?i
+07/04/2021,Ba??c Giang,1,T?i
+07/04/2021,?a? Na??ng,1,T?i
+07/04/2021,TP. Ho?? Chi? Minh,213,Tr?a
+07/04/2021,Bi?nh Du?o?ng,11,Tr?a
+07/04/2021,Phu? Ye?n,10,Tr?a
+07/04/2021,Long An,5,Tr?a
+07/04/2021,Bi?nh ?i?nh,4,Tr?a
+07/04/2021,Vi?nh Long,2,Tr?a
+07/04/2021,Ha?i Pho?ng,2,Tr?a
+07/04/2021,Ba??c Giang,2,Tr?a
+07/04/2021,Ta?y Ninh,2,Tr?a
+07/04/2021,Ninh Thua??n,1,Tr?a
+07/04/2021,Ha? Ti?nh,1,Tr?a
+07/04/2021,Tra? Vinh,1,Tr?a
+07/04/2021,TP. Ho?? Chi? Minh,217,Sáng
+07/04/2021,Phu? Ye?n,17,Sáng
+07/04/2021,Long An,15,Sáng
+07/04/2021,Kha?nh Hoa?,9,Sáng
+07/04/2021,Ba? Ri?a - Vu?ng Ta?u,2,Sáng
+07/04/2021,?o??ng Tha?p,2,Sáng
+07/04/2021,An Giang,1,Sáng
+07/03/2021,TP. Ho?? Chi? Minh,250,T?i
+07/03/2021,?o??ng Nai,32,T?i
+07/03/2021,Qua?ng Nga?i,16,T?i
+07/03/2021,Phu? Ye?n,14,T?i
+07/03/2021,Tie??n Giang,12,T?i
+07/03/2021,Nghe?? An,7,T?i
+07/03/2021,Bi?nh Du?o?ng,6,T?i
+07/03/2021,Bi?nh ?i?nh,5,T?i
+07/03/2021,Ba? Ri?a - Vu?ng Ta?u,4,T?i
+07/03/2021,TP. Ho?? Chi? Minh,249,Tr?a
+07/03/2021,Bi?nh Du?o?ng,32,Tr?a
+07/03/2021,Phu? Ye?n,12,Tr?a
+07/03/2021,?o??ng Tha?p,12,Tr?a
+07/03/2021,Nghe?? An,7,Tr?a
+07/03/2021,La?m ?o??ng,4,Tr?a
+07/03/2021,Vi?nh Long,3,Tr?a
+07/03/2021,Long An,2,Tr?a
+07/03/2021,Tra? Vinh,2,Tr?a
+07/03/2021,Kha?nh Ho?a,1,Tr?a
+07/03/2021,Ba?c Lie?u,1,Tr?a
+07/03/2021,Ba??c Ninh,1,Tr?a
+07/03/2021,Bi?nh Phu?o??c,1,Tr?a
+07/03/2021,An Giang,1,Tr?a
+07/03/2021,?a??c La??k,1,Tr?a
+07/03/2021,TP. Ho?? Chi? Minh,215,Sáng
+07/03/2021,Phu? Ye?n,11,Sáng
+07/03/2021,Hu?ng Ye?n,10,Sáng
+07/03/2021,Ba?c Lie?u,2,Sáng
+07/03/2021,Ba??c Ninh,1,Sáng
+07/02/2021,TP. Ho?? Chi? Minh,150,T?i
+07/02/2021,Phu? Ye?n,20,T?i
+07/02/2021,Bi?nh Du?o?ng,13,T?i
+07/02/2021,Qua?ng Nga?i,10,T?i
+07/02/2021,?a? Na??ng,3,T?i
+07/02/2021,Vi?nh Long,3,T?i
+07/02/2021,Long An,2,T?i
+07/02/2021,An Giang,2,T?i
+07/02/2021,Ta?y Ninh,2,T?i
+07/02/2021,Nghe?? An,1,T?i
+07/02/2021,?o??ng Tha?p,1,T?i
+07/02/2021,Ba??c Ninh,1,T?i
+07/02/2021,Ba??c Giang,1,T?i
+07/02/2021,La?m ?o??ng,1,T?i
+07/02/2021,Thanh Ho?a,3,Tr?a
+07/02/2021,Long An,1,Tr?a
+07/02/2021,Kie?n Giang,1,Tr?a
+07/02/2021,TP. Ho?? Chi? Minh,151,Tr?a
+07/02/2021,Phu? Ye?n,10,Tr?a
+07/02/2021,Hu?ng Ye?n,3,Tr?a
+07/02/2021,Long An,2,Tr?a
+07/02/2021,Tra? Vinh,1,Tr?a
+07/02/2021,Ha?i Pho?ng,1,Tr?a
+07/02/2021,Ba??c Giang,1,Tr?a
+07/02/2021,Ba??c Ninh,1,Tr?a
+07/02/2021,TP. Ho?? Chi? Minh,118,Sáng
+07/02/2021,Phu? Ye?n,10,Sáng
+07/02/2021,?o??ng Nai,5,Sáng
+07/02/2021,An Giang,4,Sáng
+07/02/2021,Long An,3,Sáng
+07/02/2021,Nghe?? An,2,Sáng
+07/02/2021,?o??ng Tha?p,2,Sáng
+07/02/2021,Ha? Ti?nh,1,Sáng
+07/02/2021,Kha?nh Ho?a,1,Sáng
+07/02/2021,Bi?nh Phu?o??c,1,Sáng
+07/01/2021,Ta?y Ninh,12,T?i
+07/01/2021,An Giang,3,T?i
+07/01/2021,?a? Na??ng,2,T?i
+07/01/2021,Ha? No??i,1,T?i
+07/01/2021,TP. Ho?? Chi? Minh,152,T?i
+07/01/2021,Bi?nh Du?o?ng,42,T?i
+07/01/2021,Tie??n Giang,22,T?i
+07/01/2021,Qua?ng Nga?i,9,T?i
+07/01/2021,Phu? Ye?n,8,T?i
+07/01/2021,An Giang,5,T?i
+07/01/2021,?a? Na??ng,3,T?i
+07/01/2021,Ha? Ti?nh,2,T?i
+07/01/2021,Ba??c Ninh,2,T?i
+07/01/2021,Ba??c Giang,1,T?i
+07/01/2021,TP. Ho?? Chi? Minh,154,Tr?a
+07/01/2021,Bi?nh Du?o?ng,48,Tr?a
+07/01/2021,Long An,28,Tr?a
+07/01/2021,Phu? Ye?n,10,Tr?a
+07/01/2021,Hu?ng Ye?n,5,Tr?a
+07/01/2021,Ba??c Giang,4,Tr?a
+07/01/2021,Nghe?? An,3,Tr?a
+07/01/2021,Ha? Ti?nh,3,Tr?a
+07/01/2021,Bi?nh Phu?o??c,1,Tr?a
+07/01/2021,?o??ng Tha?p,1,Tr?a
+07/01/2021,Ba??c Ninh,1,Tr?a
+07/01/2021,TP. Ho?? Chi? Minh,158,Sáng
+07/01/2021,Tie??n Giang,16,Sáng
+07/01/2021,Phu? Ye?n,8,Sáng
+07/01/2021,Hu?ng Ye?n,6,Sáng
+07/01/2021,Vi?nh Long,1,Sáng
